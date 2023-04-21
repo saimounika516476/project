@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/d1c2ea8b80.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container">
+        <div class="d-flex flex-row">
+            <div class="d-flex flex-column">
+                <div class="circle ml-3 mt-3">
+                    <i class="fas fa-user icon ml-3 mt-3"></i>
+                </div>
+                <p class="paragraph ml-3 mt-2">PROFILE</p>
+            </div>
+            <div class="d-flex flex-column">
+                <h1 class="heading">CAROLINE <br />THOMPSON</h1>
+                <p class="paragraph ml-4">ART DIRECTOR</p>
+            </div>
+            <div class="line mt-3 ml-3"></div>
+            <div>
+                <p class="para">Advertising campaigns are my forte.<br /> I have been in the industry for 6 years. <br /> Address: Los Angeles, California <br />Phone: +(87) 83429342344 <br />Website: carolinethompson.com</p>
+            </div>
+        </div>
+        <hr class="hr-line mr-3" />
+        <div class="d-flex flex-row">
+            <div class="d-flex flex-column">
+                <div class="circle ml-3 mt-3">
+                    <i class="fas fa-briefcase icon ml-3 mt-3"></i>
+                </div>
+                <p class="paragraph ml-4 mt-2">Work</p>
+            </div>
+            <div class="d-flex flex-column">
+                <p class="num ml-4">2022-2023</p>
+                <p class="num ml-4 mt-4">2021-2022</p>
+                <p class="num ml-4 mt-4">2020-2021</p>
+            </div>
+            <div class="d-flex flex-column">
+                <h1 class="head">Creative Minds Graphic Design Studio California-Senior Art Director</h1>
+                <p class="paragraph ml-4">Generating and developing ideas to present to the client</p>
+                <h1 class="head">Mega Giants Publishing and Studio - Junior Art Director</h1>
+                <p class="paragraph ml-4">Working on designs to produce an effective advertising campaign</p>
+                <h1 class="head">Big Ideas Inc - Assistant Art Director</h1>
+                <p class="paragraph ml-4">Commissioning specialists, such as artists, to work on projects</p>
+            </div>
+        </div>
+        <hr class="hr-line mr-3" />
+        <div class="d-flex flex-row">
+            <div class="d-flex flex-column">
+                <div class="circle ml-3 mt-2">
+                    <i class="fas fa-clipboard-list icon ml-3 mt-3"></i>
+                </div>
+                <p class="paragraph ml-3 mt-2">Skills & <br />Awards</p>
+            </div>
+            <div class="d-flex flex-row">
+                <div class="d-flex flex-column">
+                    <p class="num">UI/UX</p>
+                    <p class="num">Growth Marketing</p>
+                    <p class="num">Typography</p>
+                    <p class="num">Video Production</p>
+                    <p class="num">Print Design</p>
+                </div>
+                <div>
+                    <div class="d-flex flex-row">
+                        <h1 class="dot mt-1 ml-5"></h1>
+                        <h1 class="dot mt-1 ml-2"></h1>
+                        <h1 class="dot mt-1 ml-2"></h1>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <h1 class="dot mt-3 ml-5"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <h1 class="dot mt-3 ml-5"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <h1 class="dot ml-5 mt-3"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <h1 class="dot mt-3 ml-5"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                        <h1 class="dot mt-3 ml-2"></h1>
+                    </div>
+                </div>
+                <div class="line ml-3"></div>
+                <div class="d-flex flex-column">
+                    <h1 class="num">2019</h1>
+                    <h1 class="num mt-4">2019</h1>
+                    <h1 class="num mt-5">2019</h1>
+                </div>
+                <div class="d-flex flex-column">
+                    <h1 class="head">Suiton Design Awards</h1>
+                    <p class="paragraph ml-3">10 Graphic Designer</p>
+                    <h1 class="head">Graphic London Award</h1>
+                    <p class="paragraph ml-3">Winning Entry: Poster Design</p>
+                    <h1 class="head">LA Creatives Award</h1>
+                    <p class="paragraph ml-3">Winning Entry: Ad Campaign</p>
+                </div>
+            </div>
+        </div>
+        <hr class="hr-line" />
+        <div class='d-flex flex-row'>
+            <div class="d-flex flex-column">
+                <div class="circle ml-3">
+                    <i class="fas fa-lightbulb icon ml-3 mt-3"></i>
+                </div>
+                <p class="paragraph ml-2 mt-2">INTERESTS</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="color-circle ml-5">
+                    <i class="fas fa-desktop" style='font-size:25px;color:lightpink'></i>
+                </div>
+                <p class="num ml-5">Internet</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="color-circle ml-5">
+                    <i class="fa fa-pencil" style='font-size:25px;color:lightpink'></i>
+                </div>
+                <p class="num ml-5">Sketching</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="color-circle ml-5">
+                    <i class="fas fa-film" style='font-size:25px;color:lightpink'></i>
+                </div>
+                <p class="num ml-5">Movies</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="color-circle ml-5">
+                    <i class="fas fa-microphone" style='font-size:25px;color:lightpink'></i>
+                </div>
+                <p class="num ml-5">Music</p>
+            </div>
+        </div>
+        <hr class="hr-line" />
+        <div class="d-flex flex-row">
+            <div class="d-flex flex-column">
+                <div class="circle ml-3 mt-2">
+                    <i class="fas fa-book icon mt-3 ml-3"></i>
+                </div>
+                <p class="paragraph ml-2 mt-2">Education</p>
+            </div>
+            <div class="d-flex flex-column">
+                <p class="num mt-2">2016-2020</p>
+                <p class="num mt-3">2013-2016</p>
+            </div>
+            <div class="d-flex flex-column">
+                <h1 class="head mt-2">Alabama College of Design and Technology - Cum Laude</h1>
+                <p class="paragraph ml-3">Bachelor of Fine Arts Major in Advertising</p>
+                <h1 class="head">Helena All Girls Senior High School - Valedictorian</h1>
+                <p class="paragraph ml-3">President of Art and Design Club</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+CSS
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: lightpink;
+    height: 180vh;
+    background-size: cover;
+}
+
+.icon {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 13px;
+}
+
+.heading {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.line {
+    border-left: 4px solid black;
+    height: 150px;
+}
+
+.hr-line {
+    background-color: #323f4b;
+    border: solid;
+    margin-left: 70px;
+
+}
+
+.para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-color: #323f4b;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.num {
+    color: #323f4b;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.head {
+    font-family: roboto;
+    font-size: 12px;
+    margin-left: 15px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.dot {
+    height: 11px;
+    width: 11px;
+    background-color: #323f4b;
+    border-radius: 50%;
+}
+
+.color-circle {
+    background-color: #202b36;
+    width: 49px;
+    height: 49px;
+    border-radius: 40px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 20px;
+    margin-left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
